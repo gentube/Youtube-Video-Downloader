@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Minimal Futuristic YouTube Downloader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="center">
+    <form class="card" id="yt-form" autocomplete="off">
+      <h2>YT Downloader</h2>
+      <input
+        id="yt-link"
+        type="url"
+        placeholder="Paste YouTube link here (Video or Shorts)"
+        required
+        autocomplete="off"
+      />
+      <div class="radio-group">
+        <label>
+          <input type="radio" name="format" value="mp4" checked>
+          <span>MP4</span>
+        </label>
+        <label>
+          <input type="radio" name="format" value="mp3">
+          <span>MP3</span>
+        </label>
+      </div>
+      <button id="generate-btn" type="submit" disabled>Get Download Link</button>
+      <div class="result" id="result" style="display:none;"></div>
+      <div class="note">
+        <small>
+          <b>Note:</b> Direct YouTube downloading is not possible in browser due to restrictions.<br>
+          This tool will generate links for third-party downloaders.<br>
+          For actual downloads, use a server or desktop app.
+        </small>
+      </div>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
