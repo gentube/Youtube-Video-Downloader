@@ -11,8 +11,7 @@ A **minimal, futuristic YouTube downloader UI** built with pure HTML, CSS, and J
 
 ## 🚀 Demo
 
-**[🌐 Live Demo (GitHub Pages)](https://aakhalidhruv28.github.io/youtube-downloader-js/)**  
-*(URL will work after you push these files and enable GitHub Pages!)*
+**[🌐 Live Demo (GitHub Pages)](https://aakhalidhruv28.github.io/Youtube-Video-Downloader/)**  
 
 ---
 
@@ -23,9 +22,7 @@ A **minimal, futuristic YouTube downloader UI** built with pure HTML, CSS, and J
 - **Choose MP4 (video) or MP3 (audio) option**
 - **Generates download links** to top third-party downloaders:
   - y2mate
-  - SaveFrom
   - 9xbuddy
-  - yt5s
 
 ---
 
@@ -43,7 +40,7 @@ A **minimal, futuristic YouTube downloader UI** built with pure HTML, CSS, and J
 1. **Fork or clone this repo.**
 2. Push to your GitHub account.
 3. Enable **GitHub Pages** (Settings > Pages > Source: `main` branch / root).
-4. Visit `https://yourusername.github.io/youtube-downloader-js/`
+4. Visit `https://github.com/aakhalidhruv28/Youtube-Video-Downloader`
 
 > **No build step needed!**
 
@@ -52,7 +49,7 @@ A **minimal, futuristic YouTube downloader UI** built with pure HTML, CSS, and J
 ## 📁 File Structure
 
 ```
-youtube-downloader-js/
+Youtube-Video-Downloader/
 ├── index.html
 ├── styles.css
 ├── script.js
@@ -76,9 +73,7 @@ MIT
 ## 🙏 Credits
 
 - [y2mate](https://www.y2mate.com/)
-- [SaveFrom](https://en.savefrom.net/)
 - [9xbuddy](https://9xbuddy.org/)
-- [yt5s](https://yt5s.com/)
 
 ---
 
