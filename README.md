@@ -1,4 +1,4 @@
-# YouTube Downloader (JS-only, No Backend) 
+# YouTube Downloader (JS-only, No Backend)
 
 A **minimal, futuristic YouTube downloader UI** built with pure HTML, CSS, and JavaScript.  
 **No backend, no frameworks, and deployable with GitHub Pages!**
