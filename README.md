@@ -78,4 +78,5 @@ MIT
 ---
 
 > **For direct downloads, you need a server-side backend due to browser restrictions. This app is for convenience and educational/demo purposes only.**
-> **Portfolio Website - developer.techydhruv.com**
+> 
+> **Portfolio Website - [developer.techydhruv.com](https://developer.techydhruv.com)**
